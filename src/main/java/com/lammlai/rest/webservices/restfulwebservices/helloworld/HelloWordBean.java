@@ -1,4 +1,4 @@
-package com.lammlai.rest.webservices.restfulwebservices;
+package com.lammlai.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWordBean {
 
